@@ -9,7 +9,7 @@
 ---
 
 ## ⚡ Tech Stack
-React.js • Node.js • Express.js • MongoDB • JavaScript • Tailwind CSS • Java • Git
+MERN Stack • MYSQL •  JavaScript  • REST APIs • Tailwind CSS • Java • Git • GitHub 
 
 ---
 
