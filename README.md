@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @NitishCodeMaster
-- 👀 I’m interested in web development,                   DSA with Java and Machine Learning 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ # Hi, I'm Nitish Kumar 👋
 
-<!---
-NitishCodeMaster/NitishCodeMaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Final-year BTech CSE student  
+💻 Full-Stack Developer (MERN Stack)  
+🧠 Currently practicing  Data Structures & Algorithms with Java  
+🚀 Building real-world projects and scalable web applications  
+📚 Exploring backend development, system design, and modern web technologies  
+
+---
+
+## ⚡ Tech Stack
+React.js • Node.js • Express.js • MongoDB • JavaScript • Tailwind CSS • Java • Git
+
+---
+
+## 🧠 Soft Skills
+Communication • Problem Solving • Public Speaking
+
+---
+
+## 🚀 Featured Project
+### Artify Studio
+A full-stack creative platform with live workshops, community collaboration, voice intro posts, and immersive user experience features.
+
+---
+
+> Passionate about combining creativity with technology.
